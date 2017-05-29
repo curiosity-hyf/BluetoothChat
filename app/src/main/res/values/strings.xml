@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BluetoothChat</string>
+
+    <string name="unknown">Unknown</string>
+    <string name="search">search</string>
+    <string name="cancel">Cancel</string>
+    <string name="send_fail">send fail</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="connect">Connect</string>
+    <string name="send">send</string>
+    <string name="enable_bt">Enable bluetooth first.</string>
+    <string name="nonsupport">Bluetooth is not supported for this device…</string>
+    <string name="already">Bluetooth is already</string>
+    <string name="refuse">Refused to open bluetooth…</string>
+</resources>
